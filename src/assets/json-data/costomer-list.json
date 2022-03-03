@@ -1,0 +1,10 @@
+[
+    {"id": 1, "name": "Adaji Mukhtar", "email": "mukhtar@adaji.fam", "location": "Minna", "phone": "07012345678", "total_spent": "$2000", "total_order": "233"},
+    {"id": 1, "name": "Adaji Maryam", "email": "maryam@adaji.fam", "location": "kaduna", "phone": "07012345678", "total_spent": "$2000", "total_order": "233"},
+    {"id": 1, "name": "Adaji Hafsat", "email": "hafsat@adaji.fam", "location": "kano", "phone": "07012345678", "total_spent": "$2000", "total_order": "233"},
+    {"id": 1, "name": "Adaji Isah", "email": "isah@adaji.fam", "location": "yola", "phone": "07012345678", "total_spent": "$2000", "total_order": "233"},
+    {"id": 1, "name": "Adaji Adamu", "email": "adamu@adaji.fam", "location": "kogi", "phone": "07012345678", "total_spent": "$2000", "total_order": "233"},
+    {"id": 1, "name": "Adaji Harira", "email": "harira@adaji.fam", "location": "kogi", "phone": "07012345678", "total_spent": "$2000", "total_order": "233"},
+    {"id": 1, "name": "Adaji Hassana", "email": "hassana@adaji.fam", "location": "kogi", "phone": "07012345678", "total_spent": "$2000", "total_order": "233"},
+    {"id": 1, "name": "Adaji Zainab", "email": "zainab@adaji.fam", "location": "kano", "phone": "07012345678", "total_spent": "$2000", "total_order": "233"}
+]

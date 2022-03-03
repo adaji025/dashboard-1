@@ -1,0 +1,30 @@
+[
+    {
+        "icon": "bx bx-error",
+        "content": "Hi, i am an error message"
+    },
+    {
+        "icon": "bx bx-package",
+        "content": "Hi, i am a package message"
+    },
+    {
+        "icon": "bx bx-error",
+        "content": "hey, i am an error message"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "Hello, i am a cart message"
+    },
+    {
+        "icon": "bx bx-package",
+        "content": "Sup, i am an error message"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "Yoo, i am an cart message"
+    },
+    {
+        "icon": "bx bx-cart",
+        "content": "Gee, i am an cart message"
+    }
+]
